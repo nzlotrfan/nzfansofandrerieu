@@ -1,0 +1,55 @@
+<webalbum version="1.8.2">
+  <title>Jeanine's Photos</title>
+  <description>
+    <line>Reading, Pa April 27, 2009</line>
+  </description>
+  <settings>
+    <photosize width="640" height="480">medium</photosize>
+    <thumbsize width="100" height="75">medium</thumbsize>
+    <homeurl>JavaScript:window.close()</homeurl>
+    <outputdirectory>C:\Documents and Settings\HP_Administrator\My Documents\Home Documents\Reubens Website\NZ fans of Andre Rieu\Stories\Jeanine Ann\JeaninesPhotos\</outputdirectory>
+    <navigateinloop>False</navigateinloop>
+  </settings>
+  <layout>
+    <colourscheme>Default</colourscheme>
+    <pagecolor>1977749</pagecolor>
+    <textcolor>16777215</textcolor>
+    <linkcolor>6737151</linkcolor>
+    <hotlinkcolor>6738421</hotlinkcolor>
+    <thumbnailrows>2</thumbnailrows>
+    <thumbnailcols>5</thumbnailcols>
+    <navigationbelowphoto>False</navigationbelowphoto>
+  </layout>
+  <photographs>
+    <photo>
+      <filename>C:\Documents and Settings\HP_Administrator\My Documents\Home Documents\Reubens Website\NZ fans of Andre Rieu\Stories\Jeanine Ann\GOOD\Image1_edited-1.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Documents and Settings\HP_Administrator\My Documents\Home Documents\Reubens Website\NZ fans of Andre Rieu\Stories\Jeanine Ann\GOOD\Jeanine's pics reading  2009 010.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Documents and Settings\HP_Administrator\My Documents\Home Documents\Reubens Website\NZ fans of Andre Rieu\Stories\Jeanine Ann\GOOD\Reading Concert 2009 4 27 029.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Documents and Settings\HP_Administrator\My Documents\Home Documents\Reubens Website\NZ fans of Andre Rieu\Stories\Jeanine Ann\GOOD\Reading Concert 2009 4 27 054.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Documents and Settings\HP_Administrator\My Documents\Home Documents\Reubens Website\NZ fans of Andre Rieu\Stories\Jeanine Ann\GOOD\Reading Concert 2009 4 27 057.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Documents and Settings\HP_Administrator\My Documents\Home Documents\Reubens Website\NZ fans of Andre Rieu\Stories\Jeanine Ann\GOOD\Reading Concert 2009 4 27 058.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Documents and Settings\HP_Administrator\My Documents\Home Documents\Reubens Website\NZ fans of Andre Rieu\Stories\Jeanine Ann\GOOD\Reading Concert 2009 4 27 063.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Documents and Settings\HP_Administrator\My Documents\Home Documents\Reubens Website\NZ fans of Andre Rieu\Stories\Jeanine Ann\GOOD\Reading Concert 2009 4 27 109.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Documents and Settings\HP_Administrator\My Documents\Home Documents\Reubens Website\NZ fans of Andre Rieu\Stories\Jeanine Ann\GOOD\Reading Concert 2009 4 27 114.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Documents and Settings\HP_Administrator\My Documents\Home Documents\Reubens Website\NZ fans of Andre Rieu\Stories\Jeanine Ann\GOOD\Reading Concert 2009 4 27 115.jpg</filename>
+    </photo>
+  </photographs>
+</webalbum>
